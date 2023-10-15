@@ -1,1 +1,20 @@
 ReadMe
+
+- The Question_02_resources folder contains the following assignment resources.
+Jupiter Notebooks of data extraction and analysis.
+  - gopro_data_extraction.ipynb
+  - gopro_data_analysis.ipynb
+SQL Queries
+Database Table Data CSVs
+Implementation Guide
+User Manual
+Test Cases
+Dashboard Screenshots
+
+- The Question_03_resources folder contains the following assignment resources.
+Jupiter Notebooks of Novel and Proposed Algorithm
+  - novel_proposed_algorithm.ipynb
+  - girvan_newman_algorithm.ipynb
+Twitter Data CSV file
+
+
